@@ -5,24 +5,17 @@ This is the source Hello World assignment repository for WATS 1010. You will fin
 
 In order to complete the assignment, you must perform a series of tasks centered around getting used to working with Git and Github. Specifically, we are going to practice forking and cloning repositories, making branches, and how to use Github Pages.
 
-Step 1: Set up your Github account.
------------------------------------
-Begin by visiting Github.com and setting up your account. Fill in account details and upload a profile image so your account is complete and we can recognize who you are.
+To complete this assignment, you must complete the following steps:
 
-Step 2: Set up your local development environment.
---------------------------------------------------
-Remember that Github is really a remote hosting service for code repositories. They host code using version control software, and their preferred version control software is Git. So when you create repositories on Github they are stored in Github.com servers. This is useful, and Github does allow you to do some editing via the web interface. However, it's important for you to be able to work on your own hardware (whether your personal laptop or a development server you use online), so it's necessary to set up a development environment so you can do work away from Github.com.
+1. Sign up to Github
+2. Fork this repo into your personal Github account
+3. Sign up to Codeanywhere.com
+4. Add your Codeanywhere public SSH key to Github
+5. Clone this repo to a Codeanywhere devbox
+6. Alter the index.html file to contain your name
+7. Branch your repository to create a gh-pages branch
+8. Push your changes to the gh-pages branch
+9. Post the URL to your project in the WATS1010 assignment submission page in Canvas
 
-To accomplish this goal, you have two choices: Develop on your personal computer, or develop using a web-based environment. (You can also choose to do both, thanks to the ability to keep code in sync using Git and Github. But pick one to do first.)
+This sounds like a lot, but these are small steps. You are encouraged to watch the video demo linked on the assignment resources page for more information about how to complete each of these steps.  
 
-*Option One: Local Development*
-
-In order to set up a local development environment, all you need at the moment is to have Git set up on your machine. There are several ways to accomplish this. See additional course resources for more options about using Git. If you have not used Git before, the easiest option is probably to download either the Windows (https://windows.github.com/) or Mac (https://mac.github.com/) version of the Github app, which will also set up your system for Git.
-
-Once you have the Github app installed, you will need to install an editor, or IDE (Interactive Development Environment). There are several great, free, open source solutions. You are encouraged to use Github's text editor, which is an application called Atom: http://www.atom.io
-
-See the course resources pages for more information abot other editors and alternatives.
-
-*Option Two: Web-based Development*
-
-If you use multiple computers throughout the day, or if you don't have a decent laptop that can come with you to lab sessions, it is advisable to set up an online development environment. There are many services that have sprung up lately.
